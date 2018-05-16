@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "node-xlsx": "^0.12.0"
+  }
+}
