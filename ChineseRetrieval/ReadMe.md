@@ -15,3 +15,7 @@
 
 
 >最后一次提交把Fontmin 这个软件也带上了 
+
+
+>http://ecomfe.github.io/fontmin/#banner
+> 官网给出了解决办法！！！
